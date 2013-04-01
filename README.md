@@ -6,7 +6,7 @@ Usage:
 ------------
 Put this in the head of your document
 ```html
-<script src="https://raw.github.com/killswitch/adblockdetect/master/adblockdetect.min.js"></script>
+<script src="//raw.github.com/killswitch/adblockdetect/master/adblockdetect.min.js"></script>
 <script>
 $.AdBlockDetect({
   detected: function() {
